@@ -1,0 +1,128 @@
+[
+  {
+    "name": "WebSolution",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/websolution",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/websolutions.png",
+    "checkout": "https://architb5.gumroad.com/l/meeza?wanted=true",
+    "price": "$39.99"
+  },
+  {
+    "name": "NexusAPI",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/NexusAPI",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/nexusapi.png",
+    "checkout": "https://architb5.gumroad.com/l/jdbkah?wanted=true",
+    "price": "$25.99"
+  },
+  {
+    "name": "MonoChrome",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/MonoChrome",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/monochrome.png",
+    "checkout": "https://architb5.gumroad.com/l/qjbigz?wanted=true",
+    "price": "$29.99"
+  },
+  {
+    "name": "Digital Studio",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/Digital%20Studio",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/digitalstudio.png",
+    "checkout": "https://architb5.gumroad.com/l/hmuro?wanted=true",
+    "price": "$29.99"
+  },
+  {
+    "name": "Pixel Studio",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/PixelStudio",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/pixelstudio.png",
+    "checkout": "https://architb5.gumroad.com/l/elaadw?wanted=true",
+    "price": "$29.99"
+  },
+  {
+    "name": "Digital Agency",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/DigitalAgency",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/digitalagency.png",
+    "checkout": "https://architb5.gumroad.com/l/gtldqf?wanted=true",
+    "price": "$29.99"
+  },
+  {
+    "name": "MindfulCoding",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/MindfulCoding",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/mindfulcoding.png",
+    "checkout": "https://architb5.gumroad.com/l/oslyn?wanted=true",
+    "price": "$19.99"
+  },
+  {
+    "name": "Nova",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/nova",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/nova.png",
+    "checkout": "https://architb5.gumroad.com/l/gmumuc?wanted=true",
+    "price": "$9.99"
+  },
+  {
+    "name": "Moody Musician",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/moodymusician",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/moodymusician.png",
+    "checkout": "https://architb5.gumroad.com/l/iknxal?wanted=true",
+    "price": "$39.99"
+  },
+  {
+    "name": "Tech Store",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/techstore",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/techstore.png",
+    "checkout": "https://architb5.gumroad.com/l/okbckp?wanted=true",
+    "price": "$19.99"
+  },
+  {
+    "name": "Launchpad",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/Launchpad",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/launchpad.png",
+    "checkout": "https://architb5.gumroad.com/l/yjnqiz?wanted=true",
+    "price": "$29.99"
+  },
+  {
+    "name": "Creative Potential",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/Creative%20Potential",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/creativepotential.png",
+    "checkout": "https://architb5.gumroad.com/l/kaiqoy?wanted=true",
+    "price": "$29.99"
+  },
+  {
+    "name": "Portfolio",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/Portfolio",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/portfolio.png",
+    "checkout": "https://architb5.gumroad.com/l/ibfnw?wanted=true",
+    "price": "$5.00"
+  },
+  {
+    "name": "LensCraft",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/LensCraft",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/lenscraft.png",
+    "checkout": "https://architb5.gumroad.com/l/qzhzx?wanted=true",
+    "price": "$29.99"
+  },
+  {
+    "name": "Nexus Light",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/nexus_light",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/nexus_light.png",
+    "checkout": "https://architb5.gumroad.com/l/lxblu?wanted=true",
+    "price": "$19.99"
+  },
+  {
+    "name": "Nexus Light 2",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/nexus_light_2",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/nexus_light_2.png",
+    "checkout": "https://architb5.gumroad.com/l/ottghs?wanted=true",
+    "price": "$29.99"
+  },
+  {
+    "name": "Nexus Dark",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/nexus_dark",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/nexus_dark.png",
+    "checkout": "https://architb5.gumroad.com/l/pyrqvy?wanted=true",
+    "price": "$29.99"
+  },
+  {
+    "name": "Luminaire",
+    "url": "https://dashing-croissant-c4f9d1.netlify.app/Luminaire",
+    "img_url": "https://cdn.jsdelivr.net/gh/ArchitTheGreat/bug-free-happiness/monodesk_assets/luminaire.png",
+    "checkout": "https://architb5.gumroad.com/l/nqkln?wanted=true",
+    "price": "$39.99"
+  }
+]
