@@ -4,5 +4,10 @@
     "description": "A minimal tool that turns messy crypto activity into something you can actually understand—fast, private, and built for how people trade.",
     "year": "2024",
     "link": "https://kryptogain.pages.dev"
-  }
+  },
+  {
+    "name": "MonoDesk - Deprecated",
+    "description": "A e-commerce site that has multiple sites for sale.",
+    "year": "2022",
+    "link": "https://monodesk.netlify.app"
 ]
