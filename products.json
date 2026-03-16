@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Minimalist Productivity Notion Template",
+    "description": "A clean and powerful Notion workspace designed to manage tasks, projects, and daily planning efficiently.",
+    "price": 0.03,
+    "currency": "SOL",
+    "image": "https://images.unsplash.com/photo-1557683316-973673baf926",
+    "downloadUrl": "https://example.com/downloads/notion-template"
+  },
+  {
+    "id": "2",
+    "name": "Modern SaaS Landing Page UI Kit",
+    "description": "A polished UI kit containing landing page sections, pricing tables, dashboards, and reusable components.",
+    "price": 0.07,
+    "currency": "SOL",
+    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d",
+    "downloadUrl": "https://example.com/downloads/ui-kit"
+  },
+  {
+    "id": "3",
+    "name": "Beginner Web Development Guide (PDF)",
+    "description": "A beginner-friendly guide explaining HTML, CSS, and JavaScript fundamentals with practical examples.",
+    "price": 0.02,
+    "currency": "SOL",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+    "downloadUrl": "https://example.com/downloads/webdev-guide"
+  },
+  {
+    "id": "4",
+    "name": "Freelancer Starter Pack",
+    "description": "Includes contract templates, proposal examples, and invoice sheets for new freelancers.",
+    "price": 0.05,
+    "currency": "SOL",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "downloadUrl": "https://example.com/downloads/freelancer-pack"
+  },
+  {
+    "id": "5",
+    "name": "100 Social Media Post Templates",
+    "description": "Editable templates designed for Instagram, Twitter, and LinkedIn marketing campaigns.",
+    "price": 0.04,
+    "currency": "SOL",
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113",
+    "downloadUrl": "https://example.com/downloads/social-pack"
+  }
+]
